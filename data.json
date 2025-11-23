@@ -1,0 +1,303 @@
+[
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superset de JavaScript que adiciona tipagem estática opcional, compilando para JavaScript puro.",
+    "data_criacao": "2012",
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "frontend",
+      "backend",
+      "compilador"
+    ]
+  },
+  {
+    "nome": "Go (Golang)",
+    "descricao": "Linguagem de programação compilada, desenvolvida pelo Google, focada em eficiência, concorrência e simplicidade.",
+    "data_criacao": "2009",
+    "link": "https://go.dev/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "sistemas",
+      "concorrência"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem de programação de sistemas focada em segurança (especialmente thread safety) e performance.",
+    "data_criacao": "2010",
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "performance",
+      "memória segura"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programação moderna e pragmática que roda na JVM e é totalmente interoperável com Java, sendo a linguagem preferida para desenvolvimento Android.",
+    "data_criacao": "2011",
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "jvm",
+      "android",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Linguagem de programação desenvolvida pela Apple para iOS, macOS, watchOS e tvOS, focada em segurança, velocidade e expressividade.",
+    "data_criacao": "2014",
+    "link": "https://www.swift.org/",
+    "tags": [
+      "linguagem de programação",
+      "mobile",
+      "apple",
+      "frontend"
+    ]
+  },
+  {
+    "nome": "C#",
+    "descricao": "Linguagem de programação orientada a objetos desenvolvida pela Microsoft, amplamente utilizada no ecossistema .NET para backend e jogos (Unity).",
+    "data_criacao": "2000",
+    "link": "https://dotnet.microsoft.com/languages/csharp",
+    "tags": [
+      "linguagem de programação",
+      ".net",
+      "backend",
+      "jogos"
+    ]
+  },
+  {
+    "nome": "Dart",
+    "descricao": "Linguagem otimizada para cliente, desenvolvida pelo Google, usada principalmente pelo framework Flutter para desenvolvimento multiplataforma.",
+    "data_criacao": "2011",
+    "link": "https://dart.dev/",
+    "tags": [
+      "linguagem de programação",
+      "mobile",
+      "frontend",
+      "google"
+    ]
+  },
+  {
+    "nome": "React",
+    "descricao": "Biblioteca JavaScript declarativa e eficiente para construir interfaces de usuário baseadas em componentes.",
+    "data_criacao": "2013",
+    "link": "https://reactjs.org/",
+    "tags": [
+      "biblioteca",
+      "frontend",
+      "javascript",
+      "componentes"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo para a construção de interfaces de usuário, conhecido por sua facilidade de aprendizado e integração.",
+    "data_criacao": "2014",
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "javascript",
+      "mvvm"
+    ]
+  },
+  {
+    "nome": "Angular",
+    "descricao": "Framework robusto e completo, mantido pelo Google, para a construção de aplicações web de grande escala (SPA).",
+    "data_criacao": "2016",
+    "link": "https://angular.io/",
+    "tags": [
+      "framework",
+      "frontend",
+      "typescript",
+      "google"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Um framework de UI que compila o código em JavaScript altamente eficiente durante a fase de build, sem a necessidade de um DOM virtual.",
+    "data_criacao": "2016",
+    "link": "https://svelte.dev/",
+    "tags": [
+      "framework",
+      "frontend",
+      "compilador",
+      "desempenho"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework de React que permite renderização do lado do servidor (SSR) e geração de sites estáticos, otimizado para produção.",
+    "data_criacao": "2016",
+    "link": "https://nextjs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "react",
+      "ssr",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "SDK de UI desenvolvido pelo Google para criar aplicações compiladas nativamente para mobile, web e desktop a partir de um único código-fonte Dart.",
+    "data_criacao": "2017",
+    "link": "https://flutter.dev/",
+    "tags": [
+      "framework",
+      "mobile",
+      "multiplataforma",
+      "dart"
+    ]
+  },
+  {
+    "nome": "Node.js",
+    "descricao": "Ambiente de execução JavaScript assíncrono e orientado a eventos, amplamente utilizado para construir servidores web escaláveis.",
+    "data_criacao": "2009",
+    "link": "https://nodejs.org/",
+    "tags": [
+      "ambiente de execução",
+      "backend",
+      "javascript",
+      "servidor"
+    ]
+  },
+  {
+    "nome": "Deno",
+    "descricao": "Ambiente de execução moderno e seguro para JavaScript e TypeScript, focado em segurança por padrão e módulos ES.",
+    "data_criacao": "2018",
+    "link": "https://deno.land/",
+    "tags": [
+      "ambiente de execução",
+      "typescript",
+      "backend",
+      "segurança"
+    ]
+  },
+  {
+    "nome": "Spring Boot",
+    "descricao": "Framework que simplifica a criação de aplicações Spring autossuficientes e prontas para produção, minimizando configurações.",
+    "data_criacao": "2014",
+    "link": "https://spring.io/projects/spring-boot",
+    "tags": [
+      "framework",
+      "backend",
+      "jvm",
+      "microsserviços"
+    ]
+  },
+  {
+    "nome": "FastAPI",
+    "descricao": "Framework web moderno e rápido para construir APIs, baseado em padrões de tipagem do Python e focado em alta performance.",
+    "data_criacao": "2018",
+    "link": "https://fastapi.tiangolo.com/",
+    "tags": [
+      "framework",
+      "backend",
+      "api",
+      "desempenho"
+    ]
+  },
+  {
+    "nome": "Kubernetes (K8s)",
+    "descricao": "Sistema de orquestração de containers open-source que automatiza a implantação, dimensionamento e gerenciamento de aplicações em container.",
+    "data_criacao": "2014",
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "devops",
+      "orquestração",
+      "containers",
+      "nuvem"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma que permite empacotar e isolar aplicações e suas dependências em containers leves e portáteis.",
+    "data_criacao": "2013",
+    "link": "https://www.docker.com/",
+    "tags": [
+      "devops",
+      "virtualização",
+      "containers",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite provisionar e gerenciar infraestrutura de nuvem usando arquivos de configuração declarativos.",
+    "data_criacao": "2014",
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "iac",
+      "devops",
+      "nuvem",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Sistema de gerenciamento de banco de dados objeto-relacional open-source focado em extensibilidade e conformidade SQL.",
+    "data_criacao": "1996",
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "relacional",
+      "sql",
+      "open source"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL baseado em documentos, conhecido por sua flexibilidade de esquema e escalabilidade horizontal.",
+    "data_criacao": "2009",
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "documentos",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Store de estrutura de dados em memória de código aberto, usado como cache, message broker e banco de dados.",
+    "data_criacao": "2009",
+    "link": "https://redis.io/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "cache",
+      "memória"
+    ]
+  },
+  {
+    "nome": "Apache Kafka",
+    "descricao": "Plataforma de streaming de eventos distribuída que permite o processamento de grandes volumes de dados em tempo real.",
+    "data_criacao": "2011",
+    "link": "https://kafka.apache.org/",
+    "tags": [
+      "streaming de dados",
+      "mensageria",
+      "big data",
+      "middleware"
+    ]
+  },
+  {
+    "nome": "Git",
+    "descricao": "Sistema de controle de versão distribuído projetado para lidar com tudo, desde pequenos a grandes projetos com velocidade e eficiência.",
+    "data_criacao": "2005",
+    "link": "https://git-scm.com/",
+    "tags": [
+      "controle de versão",
+      "ferramenta",
+      "devops",
+      "colaboração"
+    ]
+  }
+]
